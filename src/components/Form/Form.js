@@ -1,5 +1,4 @@
 import React from "react";
-// import Label from "../Label/Label";
 import "./Form.scss";
 
 /**
@@ -41,29 +40,6 @@ class Form extends React.Component {
             </label>
             <button type="submit">Go</button>
           </div>
-
-          {/* Trying to make Label Component but no sure the best way to change the value so it says GET, POST, etc. Need the value to be what the span tag is so the text area can be disabled or not */}
-          {/* <div id="methods" onChange={this.props.handleChange}>
-            <Label value>
-              <span>GET</span>
-            </Label>
-            <Label value>
-              <span>POST</span>
-            </Label>
-            <Label>
-              <span>PUT</span>
-            </Label>
-            <Label>
-              <span>PATCH</span>
-            </Label>
-            <Label>
-              <span>DELETE</span>
-            </Label>
-            <label>
-              <button type="submit">Go</button>
-            </label>
-          </div> */}
-
           <section>
             <div id="body">
               <textarea
