@@ -9,17 +9,22 @@
 * [travis](http://xyz.com)
 
 #### Documentation
-* [styleguide](http://xyz.com) (React assignments)
+`npm run styleguide`
 
+### Modules
+#### `App.js`
+`callApi(event) -> Gets response back from superagent`
+   * Takes an event. Makes a API request to a third-party application.
+   * It assings the response and header to the state
+
+`handleChange(event) -> setsState`
+   * Handles changes occuring in the form
 
 #### Running the app
 * `npm start`
-
   
 #### Tests
-* How do you run tests?
-`npm test`
-
+* `npm test`
 
 #### UML
 Link to an image of the UML for your application and response to events# Resty
