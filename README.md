@@ -5,9 +5,13 @@
 ### Author: Tia Rose
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
+[![Build Status](https://www.travis-ci.com/tia-rose-401-advanced-javascript/Resty.svg?branch=dev)](https://www.travis-ci.com/tia-rose-401-advanced-javascript/Resty)
+
+* [submission PR](https://github.com/tia-rose-401-advanced-javascript/Resty/pull/1)
+* [travis](https://www.travis-ci.com/tia-rose-401-advanced-javascript/Resty)
 * [codesandbox](https://codesandbox.io/s/resty-8qihc?fontsize=14)
+* [netlify](https://zealous-tesla-34fd2f.netlify.com)
+* [aws](http://rest-y.s3-website-us-west-2.amazonaws.com)
 
 #### Documentation
 `npm run styleguide`
