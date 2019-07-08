@@ -7,6 +7,7 @@
 ### Links and Resources
 * [submission PR](http://xyz.com)
 * [travis](http://xyz.com)
+* [codesandbox](https://codesandbox.io/s/resty-8qihc?fontsize=14)
 
 #### Documentation
 `npm run styleguide`
@@ -27,4 +28,4 @@
 * `npm test`
 
 #### UML
-Link to an image of the UML for your application and response to events# Resty
+![UML](./assets/Resty-UML.JPG)
